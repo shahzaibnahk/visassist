@@ -1,0 +1,13 @@
+.env
+*.log
+run_test_out.log
+run_test_err.log
+
+# Python
+**/__pycache__/
+**/.pytest_cache/
+**/.venv/
+
+# Node
+**/node_modules/
+**/dist/
